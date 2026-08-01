@@ -11,8 +11,8 @@ Personal VS Code + ruff config template for new Python projects. No `pyproject.t
 
 ## Usage
 
-\`\`\`bash
+```bash
 uv init my-new-project
-\`\`\`
+```
 
 Copy `.vscode/`, `ruff.toml`, and `.gitignore` from this template into the new project.
