@@ -90,5 +90,5 @@
   "workbench.layoutControl.enabled": false,
   "merge-conflict.autoNavigateNextConflict.enabled": false,
   "workbench.colorTheme": "GitHub Dark",
-  "python.analysis.displayEnglishDiagnostics": true,
+  "python.analysis.displayEnglishDiagnostics": true
 }
